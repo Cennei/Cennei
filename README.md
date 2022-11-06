@@ -19,3 +19,39 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<div align="center">
+  <img src="https://img.freepik.com/free-photo/yellow-gold-oil-paint-abstract-background-oil-paint-yellow-gold-oil-paint-background-yellow-gold-marble-pattern-texture-abstract-background_1258-103559.jpg?w=2000" width="850" height="200"/>
+</div>
+
+ ---
+ 
+:hamster: About Me :<div/>
+I am a Unity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+<div/>
+
+- :checkered_flag: I’m an Unity enthusiast.
+
+- :seedling: I'm studying all i could face on my GameDev route.
+
+- :zap: In my free time, i'm reading about Game design, Game news and, ofcourse, :video_game: playing games.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sergei-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-mazurenko-786245225/)
+
+---
+
+:hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### :nazar_amulet:	 My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cennei&theme=dark&background=000000)](https://git.io/streak-stats)
