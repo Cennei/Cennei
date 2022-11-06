@@ -59,7 +59,8 @@ I am a Unity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ---
 
-:writing_hand: Blog Posts :
+<!-- :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
+ -->
