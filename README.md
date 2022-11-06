@@ -29,7 +29,7 @@
 I am a Unity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 <div/>
 
-- :checkered_flag: I’m an Unity enthusiast.
+- :checkered_flag: Unity enthusiast.
 
 - :seedling: I'm studying all i could face on my GameDev route.
 
