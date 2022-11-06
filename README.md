@@ -33,7 +33,7 @@ I am a Unity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :seedling: I'm studying all i could face on my GameDev route.
 
-- :zap: In my free time, i'm reading about Game design, Game news and, ofcourse, playing games :video_game:.
+- :zap: In my free time, i'm reading about Game design, Game news and, of course, playing games :video_game:.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sergei-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-mazurenko-786245225/)
 
